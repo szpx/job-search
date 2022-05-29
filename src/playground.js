@@ -1,1 +1,5 @@
-console.log((2 + 1) % 4);
+let data = "Bonjour";
+
+data.toLowerCase();
+
+console.log(data);
