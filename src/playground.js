@@ -1,8 +1,1 @@
-const favoriteFood = "Sushi";
-
-
-const goodFoods = {
-  favoriteFood ,
-};
-
-console.log(goodFoods);
+console.log((2 + 1) % 4);
